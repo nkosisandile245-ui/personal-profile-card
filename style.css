@@ -1,0 +1,28 @@
+body {
+  background-color:white;
+  color: black;
+}
+
+h2 {
+  color: blue;
+}
+
+p {
+  color: black;
+  font-family: 'Franklin Gothic Medium';
+  font-size: medium;
+}
+
+ul {
+    color: black;
+    font-family: 'Franklin Gothic Medium';
+}
+
+a {color: black;
+   font-family: 'Franklin Gothic Medium';
+}
+
+button {color: blue;
+    background-color: white;
+
+}
